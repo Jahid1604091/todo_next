@@ -1,0 +1,29 @@
+[
+    {
+        "id":1,
+        "name":"john",
+        "avatar":"https://images.unsplash.com/photo-1544168190-79c17527004f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60",
+        "email":"john@yahoo.com",
+        "salary":50000,
+        "joining_date":"10-12-21",
+        "status":1
+    },
+    {
+        "id":2,
+        "name":"smilga",
+        "avatar":"https://images.unsplash.com/photo-1514222709107-a180c68d72b4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60",
+        "email":"smilga@yahoo.com",
+        "salary":40000,
+        "joining_date":"01-11-21",
+        "status":0
+    },
+    {
+        "id":3,
+        "name":"smith",
+        "avatar":"https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8NXx8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60",
+        "email":"smith@yahoo.com",
+        "salary":30000,
+        "joining_date":"10-12-21",
+        "status":1
+    }
+]
